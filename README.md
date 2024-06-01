@@ -15,4 +15,8 @@ jdk1.8  maven3.9  mysql8.0  nodejs16
 
 运行使用idea和vscode
 
+<<<<<<< HEAD
 - 前端启动 npm run dev
+=======
+- 前端启动 npm run dev
+>>>>>>> c3d89a8bb1aa5f5b7b52bfc8c6662b97b40797a2
